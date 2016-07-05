@@ -1,5 +1,5 @@
-var favoriteWord = "mercurial"    // Use your own favorite word!
-var favoriteColor = "blue"        // Use your own favorite color!
+var favoriteWord = "Food"    // Use your own favorite word!
+var favoriteColor = "Green"        // Use your own favorite color!
 var favoriteMusician = "Nirvana"  // Use your own favorite musician!
 
 print(favoriteWord)
@@ -17,3 +17,8 @@ print("Hi Mom! My favorite word is \(favoriteWord), my favorite color is \(favor
 
 var skySentence = "The sky is \(color)."
 print(skySentence)
+
+
+
+let car = "BMW"
+print("My favorite car is \(car)")
